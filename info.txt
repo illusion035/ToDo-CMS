@@ -1,0 +1,11 @@
+Hello,
+Thanks for visiting our website - https://craftvision.net
+
+The install of that To Do list is easy:
+1. Move files to your host
+2. Install SQL (ToDo SQL.sql) via phpmyadmin or other
+3. Connect your database.php with your database of host
+4. Setup finished.
+
+Our Discord Server where we can help and to find news/updates about project:
+https://discord.gg/hacD4ZGm3J
