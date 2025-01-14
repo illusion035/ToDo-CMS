@@ -1,6 +1,8 @@
 # ToDo-CMS
 Easy Task Management System for Everyday Use
 
+![To-Do List CMS Preview](https://craftvision.net/assets/images/products/ToDo.png)
+
 # 🌟 Key Features
 
 ## 💻 Full Responsive Design  
